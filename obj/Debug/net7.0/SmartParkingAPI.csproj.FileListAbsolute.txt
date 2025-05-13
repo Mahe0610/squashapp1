@@ -1,0 +1,7 @@
+C:\Users\puja1\Downloads\SmartParkingAPI\obj\Debug\net7.0\SmartParkingAPI.csproj.AssemblyReference.cache
+C:\Users\puja1\Downloads\SmartParkingAPI\obj\Debug\net7.0\SmartParkingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puja1\Downloads\SmartParkingAPI\obj\Debug\net7.0\SmartParkingAPI.AssemblyInfoInputs.cache
+C:\Users\puja1\Downloads\SmartParkingAPI\obj\Debug\net7.0\SmartParkingAPI.AssemblyInfo.cs
+C:\Users\puja1\Downloads\SmartParkingAPI\obj\Debug\net7.0\SmartParkingAPI.csproj.CoreCompileInputs.cache
+C:\Users\puja1\Downloads\SmartParkingAPI\obj\Debug\net7.0\SmartParkingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\puja1\Downloads\SmartParkingAPI\obj\Debug\net7.0\SmartParkingAPI.MvcApplicationPartsAssemblyInfo.cache
