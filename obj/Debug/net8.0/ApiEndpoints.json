@@ -26,41 +26,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "SmartParkingAPI.Controllers.AuthController",
-    "Method": "Login",
-    "RelativePath": "api/Auth/login",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "SmartParkingAPI.Controllers.LoginRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ReservationController",
-    "Method": "Create",
-    "RelativePath": "api/reservations",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "SmartParkingApi.DTOs.ReservationCreateDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "SmartParkingApi.Controllers.ReservationsController",
     "Method": "CreateReservation",
-    "RelativePath": "api/Reservations",
+    "RelativePath": "api/user/reservations",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -74,29 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ReservationController",
-    "Method": "GetMine",
-    "RelativePath": "api/reservations/mine",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "SmartParkingApi.Controllers.ReservationsController",
     "Method": "GetMyReservations",
-    "RelativePath": "api/Reservations/mine",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ReservationController",
-    "Method": "GetMyReservations",
-    "RelativePath": "api/reservations/my-reservations",
+    "RelativePath": "api/user/reservations/mine",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

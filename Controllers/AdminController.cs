@@ -18,7 +18,6 @@ namespace SmartParkingApi.Controllers
         }
 
         [HttpGet("slots/occupied")]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetOccupiedSlots([FromQuery] DateTime at)
         {
             var slots = await _reservationService.GetOccupiedSlotsAsync(at);
@@ -26,7 +25,6 @@ namespace SmartParkingApi.Controllers
         }
 
         [HttpGet("slots/frequent")]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetFrequentSlots()
         {
             var slots = await _reservationService.GetTopFrequentSlotsAsync();

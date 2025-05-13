@@ -1,15 +1,13 @@
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SmartParkingApi.DTOs;
 using SmartParkingApi.Services;
 using System;
-using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace SmartParkingApi.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/user/reservations")]
     public class ReservationsController : ControllerBase
     {
         private readonly IReservationService _reservationService;
@@ -21,12 +19,10 @@ namespace SmartParkingApi.Controllers
 
         private Guid GetUserId()
         {
-            var id = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            return string.IsNullOrEmpty(id) ? Guid.Empty : Guid.Parse(id);
+            return Guid.NewGuid();
         }
 
         [HttpPost]
-        [Authorize(Roles = "User")]
         public async Task<IActionResult> CreateReservation([FromBody] ReservationCreateDto dto)
         {
             var userId = GetUserId();
@@ -37,10 +33,9 @@ namespace SmartParkingApi.Controllers
         }
 
         [HttpGet("mine")]
-        [Authorize(Roles = "User")]
         public async Task<IActionResult> GetMyReservations()
         {
-            var userId = GetUserId();
+            var userId = GetUserId(); 
             var result = await _reservationService.GetByUserAsync(userId);
             return Ok(result);
         }

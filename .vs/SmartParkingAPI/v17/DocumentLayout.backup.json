@@ -7,32 +7,28 @@
       "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D51D16F5-25BF-CF8D-16AE-B6306361AA61}|SmartParkingApi.csproj|c:\\users\\mahe\\desktop\\squash\\gitpath\\smartparking\\smartparkingapi\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,31 +74,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAwAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:23:53.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:00:16.467Z"
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T03:39:37.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -112,38 +97,27 @@
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBcAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:24:48.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:14:18.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ReservationsController.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\ReservationsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
-              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\ReservationsController.cs",
-              "RelativeToolTip": "Controllers\\ReservationsController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\ReservationsController.cs*",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:14:16.866Z"
+              "WhenOpened": "2025-05-12T18:14:16.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "IReservationService.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Services\\IReservationService.cs",
               "RelativeDocumentMoniker": "Services\\IReservationService.cs",
@@ -155,31 +129,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T01:08:04.539Z"
+              "WhenOpened": "2025-05-13T01:08:04.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:23:53.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T18:10:50.298Z"
+              "WhenOpened": "2025-05-12T18:10:50.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:00:16.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ReservationService.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Services\\ReservationService.cs",
               "RelativeDocumentMoniker": "Services\\ReservationService.cs",
@@ -191,19 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T01:15:15.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "ParkingSlot.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Models\\ParkingSlot.cs",
               "RelativeDocumentMoniker": "Models\\ParkingSlot.cs",
@@ -215,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "ReservationDto.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\DTOs\\ReservationDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ReservationDto.cs",
@@ -227,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "FrequentSlotDto.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\DTOs\\FrequentSlotDto.cs",
               "RelativeDocumentMoniker": "DTOs\\FrequentSlotDto.cs",
@@ -239,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ReservationCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\DTOs\\ReservationCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ReservationCreateDto.cs",
@@ -251,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -263,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "Models\\Reservation.cs",
@@ -275,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "OccupiedSlotDto.cs",
               "DocumentMoniker": "C:\\Users\\Mahe\\Desktop\\squash\\gitpath\\smartparking\\SmartParkingAPI\\DTOs\\OccupiedSlotDto.cs",
               "RelativeDocumentMoniker": "DTOs\\OccupiedSlotDto.cs",
